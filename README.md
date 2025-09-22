@@ -1,9 +1,8 @@
 # C-Cpp-Scripts-2025
 ---
-![Hacktoberfest 2022](https://github.com/biswas-neelesh96/C-Cpp-Scripts-2025/blob/main/HF2025-EmailHeader.jpg)
 
 This repository will be used for **C/C++ Scripts** during Hacktoberfest 2025
-
+![Hacktoberfest 2022](https://github.com/biswas-neelesh96/C-Cpp-Scripts-2025/blob/main/HF2025-EmailHeader.jpg)
 ## Guidelines for contribution:
 ---
 
